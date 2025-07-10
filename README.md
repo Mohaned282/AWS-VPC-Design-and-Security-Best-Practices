@@ -80,4 +80,4 @@ Lessons Learned:
 
 Author:
 Mohaned Mohamed
-AWS Solutions Architect Associate | AWS Cloud Practitioner | CCNP (Enterprise & Security) | PCNSE7 | Senior Network Engineer | Aspiring AWS Security Engineer / Solutions Architect | Cloud-Focused IT Professional
+AWS Network Engineer | AWS Solutions Architect Associate | CCNP Security | PCNSE7 | VPC | Transit Gateway | BGP | VPN | Cloud Security | Linux | CloudFormation
